@@ -1,3 +1,10 @@
+<!-- default file list -->
+*Files to look at*:
+
+* [Form1.cs](./CS/DXSample/Form1.cs) (VB: [Form1.vb](./VB/DXSample/Form1.vb))
+* [Program.cs](./CS/DXSample/Program.cs) (VB: [Program.vb](./VB/DXSample/Program.vb))
+* [WeekNumberControl.cs](./CS/DXSample/WeekNumberControl.cs) (VB: [WeekNumberControl.vb](./VB/DXSample/WeekNumberControl.vb))
+<!-- default file list end -->
 # How to implement a week number panel in the Month view
 
 
